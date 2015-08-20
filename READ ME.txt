@@ -32,4 +32,6 @@ Patrick
 
 "drug_connections.py" - This program finds all the connections between those that were tweeting about drugs, who were found by "drug_tweet_searcher.py" and are listed in "Flagged_Drug_Users.txt".
 
-test
+"Drug_Connections.txt" - This is a file created by "drug_connections.py", but it isn't really used for anything.
+
+"Drug_Full_Tris_13-2015_Gephi.JPG" - This is a screenshot of the gephi file "Drug_Complete_Triangle_Visual_Test.gephi" for the connections between those tweeting about drugs, and in a reciprocal triangle with two other users who also tweeted about drugs, based on the "13-2015_social_graph.json" graph file and the "1year_filtered.json" tweet file. The connections are found using the "drug_connections.py" file.
